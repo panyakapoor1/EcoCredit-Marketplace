@@ -139,5 +139,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/panyakapoor1/EcoCredit-Marketplace/issues).
 
+## 🤝 Project Team - The Chainmakers
+Team Members - Panya Kapoor, Tanisha Bhargava & Aditya Raj Singh
+
 ## 📝 License
 This project is licensed under the MIT License.
